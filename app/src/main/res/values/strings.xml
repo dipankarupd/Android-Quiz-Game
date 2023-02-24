@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Quiz Game</string>
 
-    <string name = "sign_up_text">
+    <string name="sign_up_text">
         Do not have an account yet? <font color="000080"><b><u> Sign up </u> </b></font>
     </string>
 
-    <string name = "forgit_password" >
+    <string name="forgit_password">
         Forgot your password?
     </string>
 </resources>
