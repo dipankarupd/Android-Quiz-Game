@@ -25,7 +25,7 @@ class WelcomeScreen : AppCompatActivity() {
 
         handler.postDelayed(
             Runnable {
-                val intent = Intent(this@WelcomeScreen, MainActivity :: class.java)
+                val intent = Intent(this@WelcomeScreen, LoginPage :: class.java)
                 startActivity(intent)
                 finish()
             },
