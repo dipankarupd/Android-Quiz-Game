@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "772457678021",
+    "project_id": "quiz-app-kotlin-7cbd0",
+    "storage_bucket": "quiz-app-kotlin-7cbd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772457678021:android:3c875f063067c2ec909cac",
+        "android_client_info": {
+          "package_name": "com.example.quizgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772457678021-0s4ogqb5fcbmrn2is74me58vuo2s4rjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUY9X5LXGRUAvHknI-Xv2uxCyHPikrvQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772457678021-0s4ogqb5fcbmrn2is74me58vuo2s4rjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772457678021:android:8f9b490f331bf7f1909cac",
+        "android_client_info": {
+          "package_name": "com.example.quizgame.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772457678021-hhb35rl83litllrl2et9ceahfaqu5als.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizgame.ui",
+            "certificate_hash": "9bc4643aae8b3b452c74e2da7856a39b2099fb07"
+          }
+        },
+        {
+          "client_id": "772457678021-0s4ogqb5fcbmrn2is74me58vuo2s4rjb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUY9X5LXGRUAvHknI-Xv2uxCyHPikrvQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772457678021-0s4ogqb5fcbmrn2is74me58vuo2s4rjb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
